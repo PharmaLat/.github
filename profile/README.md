@@ -1,6 +1,6 @@
 #PharmaLat
 ## Team
-@Shevraar @Impellizzeri99 @chrisCCtwentyone @Fcamarda
+[@Shevraar](https://github.com/GabrieleZito), [@Impellizzeri99](https://github.com/Impellizzeri99), [@chrisCCtwentyone](https://github.com/chrisCCtwentyone) e [@Fcamarda](https://github.com/Fcamarda)
 
 ##Progetto
 
