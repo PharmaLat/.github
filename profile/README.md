@@ -1,8 +1,8 @@
-#PharmaLat
+# PharmaLat
 ## Team
 [@Shevraar](https://github.com/GabrieleZito), [@Impellizzeri99](https://github.com/Impellizzeri99), [@chrisCCtwentyone](https://github.com/chrisCCtwentyone) e [@Fcamarda](https://github.com/Fcamarda)
 
-##Progetto
+## Progetto
 
 ```
 Si richiede di progettare e sviluppare un software di gestione integrata della produzione,
